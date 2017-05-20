@@ -10,20 +10,16 @@ Hello World program with complete react and python server side setup
 
 
 ## Installing dependencies
-```yarn install```
+```npm install```
 
 ```pip install -t app/lib -r requirements.txt```
 
 ## For MAC
 
-npm start
+```npm start```
 
 ## For Windows
 
-npm run win
+```npm run win```
 
-npm run webpack
-
-## Installing dependencies
-
-npm install
+```npm run webpack```
